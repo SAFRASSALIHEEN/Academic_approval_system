@@ -29,7 +29,7 @@ const data = [
     semester: '6',
    
    
-    imgSrc: 'https://mdbootstrap.com/img/new/avatars/6.jpg',
+    imgSrc: 'https://mdbootstrap.com/img/new/avatars/8.jpg',
   },
   {
     name: 'Salitha Sadalinda',
@@ -39,7 +39,7 @@ const data = [
     semester: '6',
     
     
-    imgSrc: 'https://mdbootstrap.com/img/new/avatars/7.jpg',
+    imgSrc: 'https://mdbootstrap.com/img/new/avatars/8.jpg',
   },
   {
     name: 'Keerthana Manivannan',
