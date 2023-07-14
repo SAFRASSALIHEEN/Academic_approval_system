@@ -24,13 +24,10 @@ const Navbar = () => {
                 </div>
                         {/* nev bar component */}
                 <div className='d-flex'>
-                        
                         <ClickLink exact to='/home' label='Home'/>
                         <ClickLink exact to='/AdviseeDetails' label='Advisee Details'/> 
                         <ClickLink exact to='/CoordinatingCourseDetails' label='Coordinating Course Details'/>
                         <ClickLink exact to='/AdvisorApprovalDetails' label='Advisor Approval Details'/>
-                        
-                        
                 </div>
                 <div>
                         
