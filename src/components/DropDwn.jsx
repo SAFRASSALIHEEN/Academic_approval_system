@@ -10,9 +10,9 @@ function DropDwn() {
         </Dropdown.Toggle>
 
         <Dropdown.Menu>
-          <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-          <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-          <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
+          <Dropdown.Item href="Student Base Infomation">Action</Dropdown.Item>
+          <Dropdown.Item href="Coordinating Corce details">Another action</Dropdown.Item>
+          <Dropdown.Item href="Semester Base Infomation">Something else</Dropdown.Item>
         </Dropdown.Menu>
       </Dropdown>
       <Divider />
