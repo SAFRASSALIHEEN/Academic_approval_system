@@ -7,7 +7,7 @@ import AdviseeDetails from './pages/AdviseeDetails'
 import CoordinatingCourseDetails from './pages/CoordinatingCourseDetails'
 import AdvisorApprovalDetails from './pages/AdvisorApprovalDetails'
 import StudentsProfile from './pages/StudentsProfile'
-
+//import all pages
 const App = () => {
   return (
     <BrowserRouter>
