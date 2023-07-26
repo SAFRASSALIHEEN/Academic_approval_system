@@ -19,7 +19,7 @@ const App = () => {
         <Route path='/coordinatingCourseDetails' element={<CoordinatingCourseDetails/>}/>
         <Route path='/AdvisorApprovalDetails' element={<AdvisorApprovalDetails/>}/>
         <Route path='/StudentsProfile' element={<StudentsProfile/>}/>
-
+        
 
         {/* create router base on semester
          */}

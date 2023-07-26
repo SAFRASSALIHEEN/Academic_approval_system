@@ -7,6 +7,7 @@ import TableEx from '../components/TableEx'
 
 
 
+
 // back end part 
 //link is to go for the particuler place
 const data = [
@@ -19,6 +20,7 @@ const data = [
     
     
     imgSrc: 'mine.jpg',
+    link:'/StudentsProfile',
     
   },
   {

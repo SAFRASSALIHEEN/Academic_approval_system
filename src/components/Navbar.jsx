@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
         <div className='bg-green pt-4 px-4 pb-2 '>
             {/* ps=pl pe<pr   <=old version */}
-            <div className='bg-white d-flex nav-inner'>
+            <div className='bg-white d-flex nav-inner p-2'>
                 {/* fac picture and name */}
                 <div className='d-flex m-9'>
                     <div className='d-flex me-2'>

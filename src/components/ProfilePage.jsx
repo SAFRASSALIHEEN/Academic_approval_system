@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import {
   MDBCol,
@@ -12,6 +13,7 @@ import {
 } from 'mdb-react-ui-kit';
 
 export default function ProfilePage() {
+
   return (
     <section style={{ backgroundColor: '#eee' }}>
       <MDBContainer className="py-5">
@@ -170,7 +172,9 @@ export default function ProfilePage() {
                     <MDBCol sm="9">
                       <MDBCardText className="text-muted">
                           <div>
-                              <button>See more</button>
+                            <Link to="/SemesterBaseInfomation">
+                                <button>See more</button>
+                            </Link>                            
                           </div>
                       </MDBCardText>
                     </MDBCol>
