@@ -40,3 +40,21 @@ a {
   text-align: center;
 }
 
+/* table styiles */
+
+table {
+  width: 100%;
+  font-size: 25px;
+}
+
+th {
+  text-align: center;
+  height: 70px;
+  padding: 25px;
+}
+
+td {
+  text-align: center;
+  padding: 25px;
+}
+
