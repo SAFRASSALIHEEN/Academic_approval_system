@@ -30,7 +30,6 @@ const SemesterBasedInfomation = () => {
   )
 }
 
-
 const Title = () => {
     return (
       <h1 className='text-black text-center bg-green nav-inner'>
