@@ -43,9 +43,9 @@ function TableExNew_01(props) {
             <p className='fw-normal mb-1'>{row.fulldetails}</p>
             </td>
             <td>
-              <MDBBtn color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
+              <button color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
                 View
-              </MDBBtn>
+              </button>
             </td>
           </tr> 
         ))}

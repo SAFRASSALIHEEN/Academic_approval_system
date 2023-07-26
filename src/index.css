@@ -58,3 +58,22 @@ td {
   padding: 25px;
 }
 
+
+/* button styiles */
+
+/* Button Style */
+.button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+/* Hover Effect */
+.button:hover {
+  background-color: #45a049;
+}
+

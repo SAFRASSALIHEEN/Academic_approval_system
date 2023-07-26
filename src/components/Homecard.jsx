@@ -3,8 +3,6 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { FaBeer } from 'react-icons/fa';
 
-
-
 function Homecard(props) { // renamed function
   return (
     <Card style={{ width: '21rem ' }}>

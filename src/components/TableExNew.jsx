@@ -36,9 +36,9 @@ function TableExNew(props) {
             <p className='fw-normal mb-1'>{row.academicYear}</p>
             </td>
             <td>
-              <MDBBtn color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
+              <button color='dark' size='sm' onClick={() => navigate(row.link)}>
                 View
-              </MDBBtn>
+              </button>
             </td>
           </tr> 
         ))}
