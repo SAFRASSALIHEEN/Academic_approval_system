@@ -40,9 +40,9 @@ function TableEx(props) {
             <p className='text-muted mb-0'>{row.semester}</p>
             </td>
             <td>
-              <MDBBtn color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
+              <button color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
                 View
-              </MDBBtn>
+              </button>
             </td>
           </tr> 
         ))}
