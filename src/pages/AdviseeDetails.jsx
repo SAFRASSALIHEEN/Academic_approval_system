@@ -62,7 +62,7 @@ const data = [
    
     
     imgSrc: 'https://mdbootstrap.com/img/new/avatars/8.jpg',
-    link:'https://mui.com/',
+    
   },
 ];
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { MDBBadge, MDBBtn, MDBTable, MDBTableHead, MDBTableBody } from 'mdb-react-ui-kit';
+import { MDBTable, MDBTableHead, MDBTableBody } from 'mdb-react-ui-kit';
 import { useNavigate } from 'react-router-dom';
 
 function TableExNew_01(props) {
@@ -43,7 +43,7 @@ function TableExNew_01(props) {
             <p className='fw-normal mb-1'>{row.fulldetails}</p>
             </td>
             <td>
-              <button color='dark' rounded size='sm' onClick={() => navigate(row.link)}>
+              <button color='dark' size='sm' onClick={() => navigate(row.link)}>
                 View
               </button>
             </td>
